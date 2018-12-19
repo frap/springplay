@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Dec 19 23:16:24 NZDT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0167-c5f7-645b-00000caa95d0 
+on database directory memory:/Users/agasson/Dev/java/cardatabase/testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@799f7e29 
+Loaded from file:/Users/agasson/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.1+13-LTS
+user.dir=/Users/agasson/Dev/java/cardatabase
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.14
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
